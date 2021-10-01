@@ -13,7 +13,7 @@ class pll011(ReadMe):
             "pl;",
             "pll011"
         ]
-        self.location = "Nova Zelândia, Hastings"
+        self.location = "São Paulo, Hastings"
         self.age = "16, nascido em 27 de setembro de 2005"
         self.occupation = "pl; Developer"
         self.projects = {
