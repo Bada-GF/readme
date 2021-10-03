@@ -7,7 +7,7 @@ class pll011(ReadMe):
     def __init__(self):
         self.username = "pll011"
         self.contacts = {
-            "Discord": "pl;#0001
+            "Discord": "pl;#0011
         }
         self.alises = [
             "pl;",
