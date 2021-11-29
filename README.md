@@ -1,30 +1,17 @@
-from GitHub import ReadMe
+- Oii
 
+- 💻 REAL PROGRAMADOR In,JS & py
 
-class pll011(ReadMe):
-    "/pll011/pll011/README.md"
+https://media.discordapp.net/attachments/885641925997264916/909159215241781258/Qgf2.gif
 
-    def __init__(self):
-        self.username = "pll011"
-        self.contacts = {
-            "Discord": "pl;#0011
-        }
-        self.alises = [
-            "pl;",
-            "pll011"
-        ]
-        self.location = "São Paulo, Hastings"
-        self.age = "16, nascido em 27 de setembro de 2005"
-        self.occupation = "pl; Developer"
-        self.projects = {
-            "public": {
-                  "total": 40,
-                  "location": "https://github.com/pll011?tab=repositories"
-            },
-            "paid": {
-                "total": 23,
-                "earnings": 3500,
-                "location": "unknown"
-            }
-        }
-        self.operating_system = "Arch, Linux"
+-My Discord,Jovem sagaix#0011
+
+- ❌ My Server,https://discord.gg/2kUMsuNx64
+
+- $SP DDD 017
+
+- Sou Do Brasil (🇧🇷)
+
+- Interior De São Paulo
+
+https://media.discordapp.net/attachments/885641925997264916/909159260615766076/keyboard-hyperx.gif
