@@ -4,7 +4,7 @@
 
 -My Discord,Jovem sagaix#0011
 
-- ❌ My Server,https://discord.gg/2kUMsuNx64
+- ❌ My Server,https://discord.gg/9pTquWTGhC
 
 - $SP DDD 017![keyboard-hyperx](https://user-images.githubusercontent.com/87894440/143805090-f42eb007-ac73-40b9-b5cd-5cdcab00aa8b.gif)
 
