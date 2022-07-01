@@ -1,13 +1,10 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+<img src="https://media.discordapp.net/attachments/852697918397349889/984672342670188614/a_7c5e6e60d5ad6d77ed9d694a81991228.gif">
 </p>
 <p align="center">
-    7teen
-<p align="center">  
-<img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
-</p>
+    Badá
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/358310460187082763.png"/>
+  <img src="https://discord.c99.nl/widget/theme-2/947619915676913674.png"/>
 </p>
 <p align="center">
 Currently learning JavaScript
