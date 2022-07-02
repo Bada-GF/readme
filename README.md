@@ -9,4 +9,4 @@
 <p align="center">
 Currently learning JavaScript
 <p align="center">
-<a href="https://discord.gg/novaholanda">Discord Server</a>
+<a href="https://discord.gg/Hk24j6e2KK">Discord Server</a>
