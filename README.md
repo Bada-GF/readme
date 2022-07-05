@@ -4,9 +4,9 @@
 <p align="center">
     Badá
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/947619915676913674.png"/>
+  <img src="https://discord.c99.nl/widget/theme-5/846330623617531905.png"/>
 </p>
 <p align="center">
-Currently learning JavaScript
+Currently learning JavaScript & Python
 <p align="center">
-<a href="https://discord.gg/Hk24j6e2KK">Discord Server</a>
+<a href="https://discord.gg/shirozen">Discord Server</a>
