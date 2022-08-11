@@ -1,12 +1,12 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/852697918397349889/984672342670188614/a_7c5e6e60d5ad6d77ed9d694a81991228.gif">
+<img src="https://media.discordapp.net/attachments/1006980914988986368/1006981073781133502/bcc9275849d1640178d1037d557af07d.jpg?width=559&height=559">
 </p>
 <p align="center">
     shirozen
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-5/947619915676913674.png"/>
+  <img src="https://discord.c99.nl/widget/theme-1/837690016431210566.png"/>
 </p>
 <p align="center">
 Currently learning JavaScript & Python
 <p align="center">
-<a href="https://discord.gg/shirozen">Discord Server</a>
+<a href="https://discord.gg/12345">Discord Server</a>
