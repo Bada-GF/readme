@@ -9,4 +9,4 @@
 <p align="center">
 Currently learning JavaScript & Python
 <p align="center">
-<a href="https://discord.gg/12345">Discord Server</a>
+<a href="https://discord.gg/complexo">Discord Server</a>
