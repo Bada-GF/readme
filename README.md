@@ -4,7 +4,7 @@
 <p align="center">
     shirozen
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-5/820517854482006016.png"/>
+  <img src="https://discord.c99.nl/widget/theme-5/270034501747474443.png"/>
 </p>
 <p align="center">
 Currently learning JavaScript & Python
